@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HomeworkFragment</string>
+    <string name="replace">Изменить!</string>
+    <string-array name="Colors">
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Жёлтый</item>
+        <item>Синий</item>
+        <item>Оранжевый</item>
+        <item>Фиолетовый</item>
+    </string-array>
 </resources>
